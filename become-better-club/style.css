@@ -4,7 +4,7 @@ body { margin: 0; background: var(--pink); color: var(--ink);
   font: 17px/1.6 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif; }
 .wrap { max-width: 720px; margin: 0 auto; padding: 40px 16px 64px; }
 header { text-align: center; margin-bottom: 28px; }
-header img { width: 96px; height: 96px; }
+header img { width: 112px; height: 112px; border-radius: 28%; border: 6px solid #fff; box-shadow: 0 8px 24px rgba(120, 40, 80, 0.18); }
 header h1 { font-size: 34px; line-height: 1.15; margin: 14px 0 4px; font-weight: 800; letter-spacing: -0.02em; }
 header p { margin: 0; color: var(--muted); }
 .lang { text-align: center; margin: 0 0 20px; font-size: 15px; }
